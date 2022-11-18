@@ -8,6 +8,6 @@ public class Example1 {
 	System.out.println("print something");
 	System.out.println("print samson"	);
 	System.out.println("print samson geses");
-	}
+	System.out.println("print samson geses");}
 
 }
